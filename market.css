@@ -1,0 +1,133 @@
+body {
+    font-size: 15pt;
+    font-family: Times, 'Times New Roman';
+    width: 96%;
+}
+.logo{
+  height:15pt;
+}
+.header{
+  display: block;
+  font-family: 'Gill Sans', Calibri, 'Trebuchet MS';
+  font-family: sans-serif;
+  font-weight: bold;
+  height: auto;
+  width: 100%;
+  border-radius: 10pt;
+  width: 100%;
+}
+.heading{
+  position:relative;
+  font-size: 30px;
+  animation: text 3s 1;
+  font-family: georgia;
+  font-weight: bold;
+
+
+}
+.search{ 
+  margin-top: 10pt;
+  margin-bottom: 10pt;
+  width: 100%;
+  position: relative;
+  padding: 12px;
+  background-color:white;
+  border-radius:30px;
+  border:none;
+  font-size: 17px;
+  padding-left: 40px;
+}
+
+#updates{
+  margin-top: 0px;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  display: flex;
+  height: 110px;
+  background-color: white;
+  background-clip: border-box;
+  
+}
+.Chat{
+  width: 100pt;
+  position: relative;
+  margin-top: 5pt;
+  margin-left: 10pt;
+  margin-bottom: 5pt;
+  height: 70pt;
+}
+.new{
+  width: 90pt;
+  height: auto;
+  top:6px;
+  position: relative;
+  left:20px;
+  border-radius: 10pt;
+  margin-bottom: 10pt
+}
+.newinfo{
+  font-size: 18px;
+  position: relative;
+  bottom: 20px;
+  left: 120px;
+  top:-100px;
+}
+/*top headers*/
+.marketlist{
+
+  position: relative;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  word-wrap: break-word;
+  height: auto;
+  background-color: dimgrey;
+ width: 100%;
+ font-family: sans-serif;
+ color: black;
+ font-weight: bold;
+ animation: text 3s 0;
+ border-radius: 10pt;
+ 
+}
+.signup{
+  height: 20pt;
+  padding-left: 40pt;
+  padding-right: 40pt;
+  background-color: rgb(61, 9, 157);
+  border-radius: 10px;
+}
+.lastupdated{
+  color: crimson;
+  font-size: small;
+  position: relative;
+  padding-left: 60%;
+  margin-top: px;
+
+}
+
+table{
+  width: 99%; 
+  background-color: burlywood;
+  color: rgb(245, 243, 249);
+  border: rgb(19, 226, 40);
+  animation: 3s text 1;
+}
+.cell{
+  width: 100%;
+}
+/*___________bottom____________*/
+.sell{
+  height: 30pt;
+  padding-left: 40pt;
+  padding-right: 40pt;
+  background-color: rgb(194, 29, 10);
+  border-radius: 10px;
+  margin-left: 90%;
+ display: inline;
+}
+.About{
+  color: rgb(28, 39, 49);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 100%;
+  
+}

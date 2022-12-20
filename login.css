@@ -1,0 +1,39 @@
+body {
+
+  width: 100%;
+}
+form{
+  background-color: rgb(39, 179, 204);
+  position: absolute;
+  margin-left: 20%;
+  margin-right: auto;
+  padding: auto;
+  display: block;
+  margin-top: auto;
+  border-radius: 2%; 
+  animation: text 3s 1; 
+}
+.logs{
+  color: rgb(4, 19, 19);
+  font-family: sans-serif;
+}
+h3{
+  color: aqua;
+}
+h4{
+  color: rgb(170, 31, 112);
+}
+.submit{
+   margin-left: 40%;
+   border-radius: 100%;
+   text-decoration-color: black;
+   font-weight: bold;
+   margin-bottom: 7px;
+   margin-top: 10px;
+    
+  }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right:auto ;
+  }

@@ -1,0 +1,23 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    background-color: white;
+    font-family: cursive;
+  }
+  .registration{
+    width: 90%;
+    background-color: rgb(250, 248, 247);
+    height: auto;
+    margin-top: 10px;
+    box-shadow: 5px 5px rgb(186, 237, 204);
+    text-overflow: ellipsis;
+    overflow-x: auto;
+    border-radius: 2pt;
+  }
+  .signup{
+    height: 50pt;
+    margin-right: 50pt;
+  }
+  h2{
+    color: rgb(145, 145, 213);
+  }

@@ -1,0 +1,123 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 95%;
+    font-size: medium;
+    color: rgb(154, 149, 149);
+    
+
+}
+h1{
+    font-size: x-large;
+    font-weight: bold;
+    font-family: georgia;
+    animation: head 3s 1; 
+}
+h2{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: georgia;
+}
+.container{
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px rgb(58, 57, 57);
+    margin-bottom: 10pt;
+    border-radius: 2pt;
+    height:auto;
+    width: auto;
+    padding-bottom: 10pt;
+}
+
+h3{
+    color: rgb(28, 27, 27);
+    font-family: times new roman;
+}
+.menu{
+   position: absolute;
+   background-attachment: fixed;
+   width: 30pt;
+   border-radius: 20px;
+   margin-left: 87%;
+}
+.topmenus{
+  height:20pt;
+  position: inline-block;
+  margin:10pt;
+}
+#post{
+    color: rgb(243, 132, 132);
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 10pt;
+    position: absolute;
+    margin-left: 60%;
+}
+.dp{
+    height:40pt;
+    width: auto;
+    border-radius: 50%;
+    display: inline-block;
+    position:top;
+}
+.footer{
+    width: 30pt;
+    height: auto;
+    margin-right: 40pt;
+}
+.message1{
+    background-color: rgb(202, 186, 167);
+    color: rgb(51, 48, 48);
+    width: auto;
+    font-family:  'Courier New', Courier, monospace;;
+    border-radius: pt;
+    padding-top: 10pt;
+    margin-bottom: 10pt;
+    animation: text s 1; 
+    
+}
+.feedback{
+    background-color: rgb(220, 245, 245);
+    width: 100%;
+    border-radius: 10pt;
+    padding-top: 10pt;
+   
+}
+.lastupdated{
+    color: brown;
+    background-color: rgb(220, 245, 245);
+    display: inline-bloc;
+    overflow-x: hidden; 
+    font-family:Geneva;
+}
+.subheader{
+    background-color: rgb(62, 78, 66);
+    padding-top: 10pt;
+    padding-bottom: 1pt;
+}
+.heading{
+    background-color: rgba(118, 187, 192, 0.493);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 10pt;
+    padding-bottom: 3pt;
+    font-weight: bold;
+}
+.news{
+    background-color: rgb(246, 243, 249);
+    border-radius: 0pt;
+    color: rgb(23, 23, 23);
+    width: 99%;
+    padding-top: 10pt;
+    padding-bottom: 10pt;
+}
+.About{
+    background-color: rgb(47, 44, 44);
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+    animation: text 3s 1;
+}
+.social{
+    padding-top: 5pt;
+    display: flex;
+    padding-bottom: 5pt;
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
